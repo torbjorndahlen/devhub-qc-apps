@@ -12,6 +12,5 @@ metadata:
     quay.io/repository-slug: openshift/okd
 spec:
   type: website
-  system: myapp
   owner: frontend-team
   lifecycle: production
